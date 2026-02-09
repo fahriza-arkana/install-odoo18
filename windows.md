@@ -182,7 +182,7 @@ pip install -r C:\Workspace\odoo\odoo18\requirements.txt
 
 1. Open folder `latihan_odoo18` in VS Code
 2. Press `F5` or select **Run** → **Start Debugging**
-3. Select configuration **"prasmul"**
+3. Select configuration **"latihan_odoo18"**
 4. Odoo will start running and can be accessed at `http://localhost:8069`
 
 ### Using Terminal
